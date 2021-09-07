@@ -1,5 +1,4 @@
-# Image-Upload-Adapter-And-Text-Edtior
-Tetx editor and image upload adapter in CKEditor 5 (CodeIgniter 4 is used)
+# Image Upload Adapter And Text-Edtior in CKEditor 5 (CodeIgniter 4 is used)
 
 ## Developed in PHP, and CodeIgniter 4, the controller upload image method follows the concept that you could adapt it to any programming language and framework
 
